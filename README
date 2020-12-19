@@ -1,3 +1,12 @@
+Patches:
+========
+demnu-fuzzymatch-4.9.diff
+dmenu-lineheight-4.9.diff
+dmenu-password-4.9.diff
+dmenu-border-4.9.diff
+dmenu-center-4.8.diff
+
+
 dmenu - dynamic menu
 ====================
 dmenu is an efficient dynamic menu for X.
